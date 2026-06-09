@@ -30,7 +30,7 @@
 
    ```bash
    cd /path/to/redmine/plugins
-   git clone https://github.com/ваш-аккаунт/redmine_unread_issues_indicator.git
+   git clone https://github.com/NorthBridgeKholmsk/redmine_unread_issues_indicator.git
 2. Выполните миграцию:
 
    ```bash
