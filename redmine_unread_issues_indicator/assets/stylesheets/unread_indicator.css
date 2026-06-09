@@ -1,0 +1,6 @@
+.issue-unread-indicator {
+  color: #2ecc71; /* приятный зелёный */
+  font-size: 1.1em;
+  margin-right: 0.3em;
+  vertical-align: middle;
+}
