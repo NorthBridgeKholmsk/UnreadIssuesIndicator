@@ -5,10 +5,10 @@ require_relative 'config/routes'
 
 Redmine::Plugin.register :redmine_unread_issues_indicator do
   name 'Unread Issues Indicator'
-  author 'Senior Ruby Developer'
+  author 'NorthBridgeKholmsk'
   description 'Displays a green dot before issue subject if there are unread changes for the current user'
   version '1.0.0'
-  url 'https://github.com/example/redmine_unread_issues_indicator'
+  url 'https://github.com/NorthBridgeKholmsk/UnreadIssuesIndicator'
   requires_redmine version_or_higher: '6.1.0'
 end
 
